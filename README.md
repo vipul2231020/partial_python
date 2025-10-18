@@ -30,16 +30,16 @@ print(pf2)
 print(pf1 + pf2)
 
 
-#Output Example
+##  Output Example
 Partial Fraction Decomposition of (2*x)/(x**2 - 1) is 1/(x - 1) + 1/(x + 1)
 Partial Fraction Decomposition of (x + 3)/(x**2 + 2*x) is 1/x + 2/(x + 2)
 The addition result is PartialFraction object with simplified form.
 
 
-#Installation
+##  Installation
 pip install -r requirements.txt
 
 
-Author
+##  Author
 Vipul Kumar Gupta
 ```
